@@ -3,7 +3,7 @@ matplotlib
 scikit-learn
 seaborn
 visdom
-ray==0.7.5
+ray
 psutil
 tqdm
 tables
